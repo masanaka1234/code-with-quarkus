@@ -1,4 +1,4 @@
-mport org.apache.camel.builder.RouteBuilder;
+import org.apache.camel.builder.RouteBuilder;
 
 public class MyRestRoute extends RouteBuilder {
 
